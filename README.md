@@ -23,7 +23,7 @@
   <img align="left" img width= 35% src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftolentino&&hide_border=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0D1117&langs_count=3" />
 </a>
 <a href="https://github.com/ftolentino/FilmerTolentino">
-  <img align="right" img width= 60% src="https://github-readme-streak-stats.herokuapp.com?user=filmertolentino&hide_border=true&date_format=n%2Fj%5B%2FY%5D&background=0D1117&border=4EA22F&stroke=4EA22F&ring=4EA22F&fire=DD50AE&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=F0F6FC&sideLabels=F0F6FC&dates=4EA22F" alt="Filmer's GitHub Stats" />
+  <img align="right" img width= 60% src="https://github-readme-streak-stats.herokuapp.com?user=ftolentino&hide_border=true&date_format=n%2Fj%5B%2FY%5D&background=0D1117&border=4EA22F&stroke=4EA22F&ring=4EA22F&fire=DD50AE&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=F0F6FC&sideLabels=F0F6FC&dates=4EA22F" alt="Filmer's GitHub Stats" />
 </a>
 
 ![Filmer's github activity graph](https://activity-graph.herokuapp.com/graph?username=ftolentino&bg_color=0d1117&color=f0f6fc&line=f0f6fc&point=4ea22f&area=true&hide_border=true)
