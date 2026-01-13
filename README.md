@@ -2,7 +2,7 @@
   <b>Filmer Tolentino</b>
 </h1>
 <br>
-<p align="center"><b>Software Developer with a focus on Frontend and experience in Mobile Development</b><p>
+<p align="center"><b>Software Developer experienced in Web and Mobile Development</b><p>
   <br>
 <p>
 <div align="center">
